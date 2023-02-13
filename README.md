@@ -1,5 +1,14 @@
 # gitGithub
 
-Hello everyone!
+git clone
 
-I wrote on gitHub.
+git status
+
+git add fileName.md
+
+git commit -m "write down your commit message"
+
+git push origin main
+
+git pull origin main
+
